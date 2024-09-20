@@ -1,0 +1,6 @@
+\* first program in git*\
+#include<stdio.h>
+void main(){
+int a=10,b=5;
+printf("sum :",a+b);
+}
